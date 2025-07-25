@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/1af8b5bb-fa00-44c1-b5aa-c75e988437e4" align="center" style="width: 100%"/>
 </div>
 
-![Header](./Animated_Video_Generated_Ready_.mp4)
+![Header](./resize-1753444493713396196Cover.png)
 
 <img src="[https://github.com/user-attachments/assets/1af8b5bb-fa00-44c1-b5aa-c75e988437e4](https://github.com/Myself-Wrathh/Myself-Wrathh/blob/main/Animated_Video_Generated_Ready_.mp4)" align="center" style="width: 100%"/>
 
